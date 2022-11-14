@@ -15,6 +15,6 @@ public class AController {
         this.aComponent = aComponent;
 
         final boolean b = aComponent.thisMethodCallsGCP();
-        System.out.println("Boolean is: " + valueOf(b));
+        System.out.println("String is: " + valueOf(b));
     }
 }
